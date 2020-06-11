@@ -2,7 +2,6 @@
 
 ## Resources
 * **Documentation**: [Official TypeScript Docs](https://www.typescriptlang.org/)
-* **Documentation**: [Official Babel Docs](https://babeljs.io/docs/en/)
 
 ## Seminar Questions
 * What is TypeScript?
