@@ -10,3 +10,4 @@ UX Engineers will learn how to improve performance and accessibility of your fro
 
 ## Topics
 ### [Topic 0: Docker](topic-0-docker/README.md)
+### [Topic 1: Performance Testing](topic-1-performance-testing/README.md)
