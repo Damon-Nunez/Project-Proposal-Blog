@@ -10,3 +10,5 @@ For each book topic, you will supplement your reading by referencing any article
 | Chapter 1: Core Concepts <br /> Chapter 2: Principles of Good Software Design | Thursday, June 25 - Sunday, June 28 | Monday, June 29 |
 | Chapter 3: Building the Front-End Layer | Monday, June 29 - Wednesday, July 1 | Thursday, July 2 |
 | Chapter 4: Web Services | Thursday, July 2 - Monday, July 6 | Monday, July 6 (3PM) |
+| Chapter 5: Data Layer | Tuesday, July 7 - Wednesday, July 8 | Thursday, July 9 |
+| Chapter 6: Caching | Thursday, July 9 - Sunday, July 12 | Monday, July 13 |
