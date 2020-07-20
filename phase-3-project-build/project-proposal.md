@@ -29,7 +29,7 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 ##
 <sup>
-  For capstone research ideas, check out prior capstone projects completed by students from the following institutions:
+  **Note**: For more capstone research ideas, check out prior capstone projects completed by students from the following institutions:
   <br />
   1. <a href="https://launchschool.com/capstone#capstone-projects">Launch School</a>
   <br />
