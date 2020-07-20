@@ -30,8 +30,10 @@ This exercise is designed to help you narrow the scope of your research down to 
 ##
 <sup>
   For capstone research ideas, check out prior capstone projects completed by students from the following institutions:
-
-  <a href="https://launchschool.com/capstone#capstone-projects">Launch School</a>
-  <a href="https://cs.brown.edu/research/pubs/theses/capstones/">Brown University</a>
-  <a href="https://uwaterloo.ca/capstone-design/2017-software-capstone-design-projects">The University of Waterloo</a>
+  <br />
+  1. <a href="https://launchschool.com/capstone#capstone-projects">Launch School</a>
+  <br />
+  2. <a href="https://cs.brown.edu/research/pubs/theses/capstones/">Brown University</a>
+  <br />
+  3. <a href="https://uwaterloo.ca/capstone-design/2017-software-capstone-design-projects">The University of Waterloo</a>
 </sup>
