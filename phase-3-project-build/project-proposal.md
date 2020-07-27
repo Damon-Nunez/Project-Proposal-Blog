@@ -2,6 +2,9 @@
 
 This exercise is designed to help you narrow the scope of your research down to a well-defined problem whose solution you can reasonably derive over the course of the next five to six weeks. 
 
+#### Due Date
+Wednesday, July 22 at 5PM
+
 ## Project Team
 * ...
 * ...
