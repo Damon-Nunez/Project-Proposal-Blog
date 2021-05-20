@@ -9,5 +9,6 @@ UX Engineers will learn how to improve performance and accessibility of your fro
 **Disclaimer:** You will _not_ become an expert in _any_ of the topics that you research during this period. This is by design. The purpose of your research should be to (1) discover common problems that occur in applications at scale and (2) have a high-level familiarity with the common solutions available for such problems. Given your strong grounding in the fundamentals, you can rest assured that you will be able to gain the skills and context neccessary to deploy the solution when the problem arises in the future. This part is just about knowing what solutions are out there.
 
 ## Topics
-### [Topic 0: Docker](topic-0-docker/README.md)
-### [Topic 1: Performance Testing](topic-1-performance-testing/README.md)
+### [Topic 0: Docker](topic-0-docker)
+### [Topic 1: Performance Testing](topic-1-performance-testing)
+### [Topic 2: UX and Systems Design](topic-2-ux-and-systems-design)
