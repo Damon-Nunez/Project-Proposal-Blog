@@ -7,3 +7,5 @@
 ### [Phase 1: Data Structures and Algorithms Review](phase-1-ds-algos-review/README.md)
 
 ### [Phase 2: Guided Research](phase-2-guided-research/README.md)
+
+### [Phase 3: Project Build](phase-3-project-build)
