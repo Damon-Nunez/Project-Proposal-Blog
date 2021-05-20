@@ -32,6 +32,8 @@
 | **Submission Guidelines** | After you successfully complete each exercise, push it up to GitHub. Submit the repo links to Google Classroom. |
 
 ### Refactor Demo Day Project
+|     |     |
+| --- | --- |
 | **Task** | Revisit Demo Day Project. Refactor as much of your project to incorporate TypeScript as you can. You must refactor at least three backend modules and three React components to use TypeScript. |
 | **Purpose** | To gain experience working with TypeScript in a complex React application. |
 | **Due Date** | Monday, June 15 at 9:00AM |
