@@ -1,7 +1,7 @@
 # Review: Arrays, Linked Lists, Stacks, and Queues
 
 ## Resources
-* **Review**: [Unit 11 Repo](https://github.com/The-Marcy-Lab-School/se-unit-11)
+* **Review**: [Unit X Repo](https://github.com/The-Marcy-Lab-School/se-unit-x-js)
 * **Textbook**: Problem Solving with Algorithms and Data Structures using Python
 * **Tutorials**: [Udemy - Python for Algorithms, Data Structures, and Interviews](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews/learn)
 * **Notes**: [Python for Algorithms and Data Structures Jupyter Notebook](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
