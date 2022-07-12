@@ -10,8 +10,9 @@ This exercise is designed to help you narrow the scope of your research down to 
   
 ## Research Area(s)
 > What technical topic(s) are you planning to explore through this project?_
-* Animation. Database creation and linking.
-*
+* Animation. 
+* Database Creation
+* Linking front-end to back-end
 
 ## Inspiration
 When you really think about it. Writers these days don't have as much spotlight as before and the platform for pure writing creativity is no longer there. In a era of technology, people find their entertainment,wisdom, and instructions online, meaning books aren't as needed anymore when it comes to gaining information and because of that disregard, people with passions for writing and sharing stories with over fictional or non-fictional don't have a solid home to really share. All they have is small facebook and twitter communities but that's all.
