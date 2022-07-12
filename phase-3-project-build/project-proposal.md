@@ -4,37 +4,27 @@ This exercise is designed to help you narrow the scope of your research down to 
 
 
 ## Project Team
-* ...
-* ...
+* Damon 
+* Pedro
+* Elijah
   
 ## Research Area(s)
-> _What technical topic(s) are you planning to explore through this project?_
-* ...
-* ...
+> What technical topic(s) are you planning to explore through this project?_
+* Animation. Database creation and linking.
+*
 
-## Problem Statement
-> _Your problem statement is a concise (100 words or less) explanation of the problem that your project will address and the potential impact that the solution will have. In other words, what's "new" about this thing that you're creating and why should people care. For additional guidance, see [here](https://www.scribbr.com/research-process/problem-statement/)._
+## Inspiration
+When you really think about it. Writers these days don't have as much spotlight as before and the platform for pure writing creativity is no longer there. In a era of technology, people find their entertainment,wisdom, and instructions online, meaning books aren't as needed anymore when it comes to gaining information and because of that disregard, people with passions for writing and sharing stories with over fictional or non-fictional don't have a solid home to really share. All they have is small facebook and twitter communities but that's all.
 
-## Proposed Solution
-> _In 100 words or less, describe what you plan on building and how it addresses your selected problem? In what ways is your solution novel?_
+## Action
+Our group plans to make an online library to fuel those creative minds to share in a story sharing dedicated app. Users will be able to share their stories to the world in any genre and read and comment on other people's stories and leave a like if they enjoyed it. Users will also be able to make some money as well through buying other people's books if they choose to put it for a price. Users can communicate with other authors about whatever they desire as we are trying to not only promote a place of sharing but building community as well.
 
 ## Anticipated Technical Challenges
-> _What are the key technical challenges that your team will have to solve in order to ship this solution?_
-* ...
-* ...
+> Creating databases, linking backend to frontend, creating animations, 
 
 ## Supporting Research
-> _Please include hyperlinks to blogs, research papers, and books that have helped inform your opinion so far or those that you believe will guide your research?_
-* ...
-* ...
+* https://www.wattpad.com/
+* https://www.reddit.com/
 
 ##
-<sup>
-  **Note**: For more capstone research ideas, check out prior capstone projects completed by students from the following institutions:
-  <br />
-  1. <a href="https://launchschool.com/capstone#capstone-projects">Launch School</a>
-  <br />
-  2. <a href="https://cs.brown.edu/research/pubs/theses/capstones/">Brown University</a>
-  <br />
-  3. <a href="https://uwaterloo.ca/capstone-design/2017-software-capstone-design-projects">The University of Waterloo</a>
-</sup>
+
