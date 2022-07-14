@@ -8,6 +8,7 @@
 ## Research Area(s)
 > What technical topic(s) are you planning to explore through this project?_
 * Express
+* Authentificaton and authorization
 * MVC file structure
 
 
