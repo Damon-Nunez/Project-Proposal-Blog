@@ -13,16 +13,17 @@
 
 
 ## Inspiration
-There are a lack of writing outlets available for aspiring professional authors. With the lack of those outlets it also reduces the communities of authors in general. With no place to write and share there really isn't a community to be had. 
+There are a lack of writing outlets available for aspiring professional authors. With the lack of those outlets it also reduces the communities of authors in general. We aim to create a community of writers that can share their stories through this medium to people all across the globe.
+
 ## Action
-So we have decided to create an outlet for writers to not only be able to post stories, but also read other author's stories and even communicate with them on a personal basis through private messaging. By doing this we aim to create a community all across the world for the people that don't have one.
+We have decided to create an app for writers to build a community. Through this app writers will be able to write and post their stories as well as read other people's stories and have a conversation about it through comments. With these features this app will be able to create the community that writers are missing.
 ## Anticipated Technical Challenges
-> Database creation
-> updating a story
-> Authentication and authorization
-> Live updates for likes and comments
-> Bookmark feature 
-> CRUD on all features
+* Database creation
+* updating a story
+* Authentication and authorization
+* Live updates for likes and comments
+* Bookmark feature 
+* CRUD on all features
 
 ## Supporting Research
 * https://www.wattpad.com/
